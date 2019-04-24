@@ -1,3 +1,4 @@
+<!-- 
 # Scientific papers relative to the project
 
 ## Bayesian Deep Learning
@@ -9,3 +10,4 @@ A. Graves. [Practical Variational Inference for Neural Networks](https://papers.
 ## Loss Reserving
 
 K. Kuo [DeepTriangle: A Deep Learning Approach to Loss Reserving](https://arxiv.org/abs/1804.09253v2)
+--!>
